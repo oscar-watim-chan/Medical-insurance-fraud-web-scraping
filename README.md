@@ -5,4 +5,4 @@ This repository stores the Python scripts to scrape the United States medical in
   - Currently run at the end of every quarter manually
   - Future goal is to run automatically if possible.
   
-Currently, only the scripts for initial scraping has been uploaded. The codes for data cleaning and further classification is available upon request.
+Currently, only the scripts for initial scraping have been uploaded. The codes for data cleaning and further classification is available upon request.
